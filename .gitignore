@@ -1,0 +1,10 @@
+.tm_properties
+resource-bundles/
+config/
+*.sublime-*
+*.log
+deploy/
+
+*.resource
+
+
